@@ -41,6 +41,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hachemouanes&show_icons=true&locale=en&layout=compact" alt="hachemouanes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hachemouanes&show_icons=true&locale=en" alt="hachemouanes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hachemouanes&" alt="hachemouanes" /></p>
