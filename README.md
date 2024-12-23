@@ -6,13 +6,11 @@
 - 🚀 **Software Engineer** with **5+ years of experience** designing and developing software solutions.  
 - 🌐 I specialize in **web and mobile applications**, **SaaS platforms**, and **high-performance systems**.  
 - 🎯 Focused on solving technical challenges and optimizing system architectures for **scalability**, **performance**, and **maintainability**.  
-- 🛠️ Skilled in **React**, **Next.js**, **Node.js**, **Python**, **MongoDB**, **Redis**, and **PostgreSQL**.
 
 ---
 
 ### 🛠️ What I Work On  
-- 📦 **Web Applications**: Building robust platforms with modern frontend and backend technologies.  
-- 📱 **Mobile Apps**: Developing cross-platform solutions with **React Native**.  
+- 📦 **Web and Mobile Applications**: Building robust platforms with modern frontend and backend technologies.  
 - ⚡ **Real-time Systems**: Crafting solutions with **WebSockets**, **Redis**, and **APIs**.  
 - 🤖 **AI & ML Integration**: Integrating intelligent features into apps for smarter user experiences.  
 - 🌟 Passionate about **clean code**, **great user experiences**, and **innovative solutions**.  
