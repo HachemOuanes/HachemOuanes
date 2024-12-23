@@ -34,14 +34,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HachemOuanes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hachemouanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hachemouanes" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/hachem ouanes](https://www.linkedin.com/in/hachem-ouanes-14570720a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hachem ouanes" height="30" width="40" /></a>
-
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hachemouanes&show_icons=true&locale=en&layout=compact" alt="hachemouanes" /></p>
-
